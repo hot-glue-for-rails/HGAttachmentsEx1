@@ -86,6 +86,12 @@ gem "active_record_query_trace", "~> 1.8", :groups => [:development, :test]
 
 gem "cssbundling-rails", "~> 1.1"
 
-gem "hot-glue", "~> 0.5.8"
+# gem "hot-glue", "~> 0.5.8"
+
+gem "hot-glue", path: "/Users/jason/Work/Hot_Glue/hot-glue-private"
 
 gem "devise", "~> 4.9"
+
+gem "image_processing", "~> 1.12"
+
+gem "byebug", "~> 11.1"
