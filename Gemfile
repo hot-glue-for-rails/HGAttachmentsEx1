@@ -80,3 +80,6 @@ gem "simplecov", "~> 0.22.0", :groups => [:development, :test]
 
 gem "simplecov-rcov", "~> 0.3.1", :group => :test
 gem "launchy", "~> 2.5", :group => :test
+
+gem "bullet", "~> 7.0", :groups => [:development, :test]
+gem "active_record_query_trace", "~> 1.8", :groups => [:development, :test]
